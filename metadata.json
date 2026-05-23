@@ -1,0 +1,6 @@
+{
+  "name": "GrowGreen",
+  "description": "Sustainable investments and referral network platform clone with a custom market, eco-wallet, and earnings tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
